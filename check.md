@@ -2,4 +2,4 @@ This documentation describes how to use the Check app.
 
 This app is used to generate regularly-occurring checklists through a user-friendly interface.
 
-This app will be available for macOS and iOS.	
+This app will be available for macOS, iOS, and iPadOS.	
