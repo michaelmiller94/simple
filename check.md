@@ -5,3 +5,5 @@ This app is used to generate regularly-occurring checklists through a user-frien
 This app will be available for macOS, iOS, iPadOS, and watchOS.
 
 Windows and Android versions are forthcoming. 
+
+This is a test of Working Copy for iOS.
