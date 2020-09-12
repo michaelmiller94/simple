@@ -1,4 +1,4 @@
-This is the first line used for the pull request test
+This is the first line used for the rebase test.
 
 This documentation describes how to use the Check app.
 
