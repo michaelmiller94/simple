@@ -4,6 +4,4 @@ This is the second line.
 
 And the third.
 
-Oh, man! And another line!
-
-Why, here's another line!
+Oh, man! And another,
