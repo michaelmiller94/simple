@@ -4,4 +4,4 @@ This is the second line.
 
 And the third.
 
-Oh, man! And another,
+Oh, man! And another! Wow!
